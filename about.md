@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a keen, loyal, quick learner, eager to learn, hardworking, positive attitude,cancolloborate well in team and highly interest in programming.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+#
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cristianl@crstian.me](mailto:cristianl@crstian.me)
