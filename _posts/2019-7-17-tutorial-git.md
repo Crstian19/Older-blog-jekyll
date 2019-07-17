@@ -1,10 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Github para noobies como yo
----
 
 ## Primer proyecto en Github
 
