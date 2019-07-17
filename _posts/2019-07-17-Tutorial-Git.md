@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 En este post vamos a ver como crear nuestro primer repositorio y tener nuestro código ordenado en Github. Vamos a aprender lo básico y los comandos necesarios para ello.
 
@@ -23,4 +23,3 @@ Si no tienes una cuenta de GitHub, ve [aquí](https://github.com/join) y regíst
 Puedes verificar si Git está instalado usando el siguiente comando:
 
     git--version
-
