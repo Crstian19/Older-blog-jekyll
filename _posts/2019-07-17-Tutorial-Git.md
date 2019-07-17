@@ -21,5 +21,7 @@ Si tienes una cuenta de GitHub y has instalado y configurado Git en tu ordenador
 Si no tienes una cuenta de GitHub, ve [aquí](https://github.com/join) y regístrate para obtener una gratis. Mira cómo instalar y configurar Git [aquí](https://help.github.com/articles/set-up-git/). Necesitamos la herramienta con terminal en caso de encontrarnos en windows. Sigue los enlaces para descargarlo e instalarlo.
 
 Puedes verificar si Git está instalado usando el siguiente comando:
+    
+    > git--version
 
-    git--version
+
