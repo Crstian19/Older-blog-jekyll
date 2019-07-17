@@ -2,6 +2,10 @@
 published: false
 ---
 ---
+published: true
+---
+
+---
 layout: post
 title: Github para noobies como yo
 ---
