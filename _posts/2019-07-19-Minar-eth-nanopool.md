@@ -3,6 +3,8 @@ published: false
 ---
 En es post vamos a ver como minar Ethereum con nanopool.org tanto en linux como en windows.
 
+![]({{site.baseurl}}/https://www.theblockcrypto.com/wp-content/uploads/2019/07/20190711_eth-dex-analysis-1200x675.jpg)
+
 ## Nanominer
 
 El miner que vamos a usar va a ser nanominer ya que está mantenido por nanopool y es el que recomiendan.
