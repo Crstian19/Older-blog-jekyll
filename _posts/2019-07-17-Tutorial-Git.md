@@ -35,7 +35,7 @@ Mediante la consola de comandos nos movemos a dicha carpeta y añadimos un repos
 
 > git init
 
-![gitinit.png]({{site.baseurl}}/_posts/gitinit.png)
+![gitinit.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitinit.png)
 
 
 Con este comando simplemente inicializamos un repositorio local vacío,ahora nuestra carpeta está inicializada como un repositorio Git y podemos hacer todas las cosas de git en ella.
@@ -63,7 +63,7 @@ Para ver los archivos que hemos añadido podemos usar el siguiente comando:
 
 > git status
 
-![gitadd.png]({{site.baseurl}}/_posts/gitadd.png)
+![gitadd.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitadd.png)
 
 
 
@@ -80,7 +80,7 @@ Para añadir un commit usamos el siguiente comando:
   
   La -m significa que vamos a añadir un cierto mensaje.
   
-![gitcommit.png]({{site.baseurl}}/_posts/gitcommit.png)
+![gitcommit.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitcommit.png)
 
 
 
@@ -103,7 +103,7 @@ La primera vez que hagamos push en los archivos a un directorio remoto, tenemos 
   
   > git push -u origin master
   
-![gitpush.png]({{site.baseurl}}/_posts/gitpush.png)
+![gitpush.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitpush.png)
 
 
 A partir del segundo push ya solo tendremos que ejecutar lo siguiente:
