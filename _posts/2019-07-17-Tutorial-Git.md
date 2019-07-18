@@ -103,7 +103,7 @@ La primera vez que hagamos push en los archivos a un directorio remoto, tenemos 
   
   > git push -u origin master
   
-![gitpush.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitpush.png)
+![gitpush.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitpush.png)
 
 
 A partir del segundo push ya solo tendremos que ejecutar lo siguiente:
