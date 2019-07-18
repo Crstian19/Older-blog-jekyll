@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Github para noobies como yo \U0001F914"
 ---
-En este post vamos a ver como crear nuestro primer repositorio y tener nuestro código ordenado en Github. Vamos a aprender lo básico y los comandos necesarios para ello.
+En este post vamos a ver como crear nuestro primer repositorio y tener nuestro código ordenado en Github. Vamos a aprender lo básico y los comandos necesarios para ello, por eso lo he titulado github para noobies o dummies como yo.
 
 
 ## Introducción
