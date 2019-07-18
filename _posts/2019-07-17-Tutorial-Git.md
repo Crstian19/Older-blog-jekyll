@@ -35,7 +35,7 @@ Mediante la consola de comandos nos movemos a dicha carpeta y añadimos un repos
 
 > git init
 
-[![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitinit.png =1000x300)](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitinit.png)
+[![1800x300](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitinit.png )](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitinit.png)
 
 
 Con este comando simplemente inicializamos un repositorio local vacío,ahora nuestra carpeta está inicializada como un repositorio Git y podemos hacer todas las cosas de git en ella.
@@ -63,7 +63,7 @@ Para ver los archivos que hemos añadido podemos usar el siguiente comando:
 
 > git status
 
-![gitadd.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitadd.png)
+[![gitadd.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitadd.png)](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitadd.png)
 
 
 
@@ -80,7 +80,7 @@ Para añadir un commit usamos el siguiente comando:
   
   La -m significa que vamos a añadir un cierto mensaje.
   
-![gitcommit.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitcommit.png)
+[![gitcommit.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitcommit.png)](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitcommit.png)
 
 
 
@@ -103,7 +103,7 @@ La primera vez que hagamos push en los archivos a un directorio remoto, tenemos 
   
   > git push -u origin master
   
-![gitpush.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitpush.png)
+[![gitpush.png](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitpush.png)](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/gitpush.png)
 
 
 A partir del segundo push ya solo tendremos que ejecutar lo siguiente:
