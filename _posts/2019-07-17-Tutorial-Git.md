@@ -24,7 +24,7 @@ Si no tienes una cuenta de GitHub, ve [aquí](https://github.com/join) y regíst
 
 Puedes verificar si Git está instalado usando el siguiente comando:
     
-    > git--version
+> git--version
 
 ## Creando nuestro primer repositorio
 
@@ -64,7 +64,7 @@ Una commit en un repositorio  podríamos decir que es como un gigantesco copiar 
 Para añadir un commit usamos el siguiente comando:
 
 
-> git commit -m "<commit message>"
+> git commit -m "commit message"
   
   La -m significa que vamos a añadir un cierto mensaje.
 
@@ -74,7 +74,7 @@ Podemos hacerlo escribiendo git commit -m "Primer commit".
 
 El mensaje del commit debe indicar qué cambios de código se hicieron en ese commit en particular.
 
-##"Pushear" tus cambios en tu master branch
+## "Pushear" tus cambios en tu master branch
   
 Cuando todos los archivos son agregados y confirmados, lo único que queda por hacer es "pushearlos/subirlos" a nuestro repositorio remoto.
 
