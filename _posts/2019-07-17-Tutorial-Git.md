@@ -35,7 +35,7 @@ Mediante la consola de comandos nos movemos a dicha carpeta y añadimos un repos
 
 > git init
 
-![gitinit.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitinit.png)
+![]({{site.baseurl}}/https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/gitinit.png)
 
 
 Con este comando simplemente inicializamos un repositorio local vacío,ahora nuestra carpeta está inicializada como un repositorio Git y podemos hacer todas las cosas de git en ella.
