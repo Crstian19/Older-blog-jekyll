@@ -1,7 +1,5 @@
 ---
 published: true
----
----
 layout: post
 title: "Minar Ethereum desde Linux y Windows en nanopool"
 ---
