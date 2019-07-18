@@ -3,12 +3,8 @@ published: true
 layout: post
 title: Minar Ethereum desde Linux y Windows en nanopool
 ---
----
-layout: post
-title: "Minar Ethereum desde Linux y Windows en nanopool"
----
 
-En es post vamos a ver como minar Ethereum con nanopool.org tanto en linux como en windows.
+En es post vamos a ver como minar Ethereum con nanopool.org en linux y en windows.
 
 ![](https://www.theblockcrypto.com/wp-content/uploads/2019/07/20190711_eth-dex-analysis-1200x675.jpg)
 
@@ -54,3 +50,4 @@ Para ver los stats lo podemos hacer desde este enlace https://eth.nanopool.org/a
 
 También desde este enlace en local podemos ver algunos datos de nuestro miner http://127.0.0.1:9090/
 
+![nanominer.png](https://github.com/Crstian19/crstian19.github.io/blob/master/_posts/nanominer.png?raw=true)
