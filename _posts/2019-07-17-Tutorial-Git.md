@@ -29,11 +29,14 @@ Puedes verificar si Git está instalado usando el siguiente comando:
 ## Creando nuestro primer repositorio
 
 En nuestro pc vamos a crear una carpeta para nuestro proyecto.
-Le llamaremos por ejmeplo demo-git.
+Le llamaremos por ejemplo demo-git.
 
 Mediante la consola de comandos nos movemos a dicha carpeta y añadimos un repositorio local usando el siguiente comando:
 
 > git init
+
+![Screenshot from 2019-07-18 22-02-34.png]({{site.baseurl}}/_posts/Screenshot from 2019-07-18 22-02-34.png)
+
 
 Con este comando simplemente inicializamos un repositorio local vacío,ahora nuestra carpeta está inicializada como un repositorio Git y podemos hacer todas las cosas de git en ella.
 
@@ -55,6 +58,16 @@ Por último en caso de querer añadir todas los archivos contenidos por la carpe
 
 > git add .
 
+
+Para ver los archivos que hemos añadido podemos usar el siguiente comando:
+
+> git status
+
+![Screenshot from 2019-07-18 22-13-38.png]({{site.baseurl}}/_posts/Screenshot from 2019-07-18 22-13-38.png)
+
+
+
+
 ## "Commitear" los cambios
 
 Después de añadir esos archivos al área de preparación, podemos crear un punto de control llamado commit. Cada commit se crea generalmente después de que hayamos terminado de trabajar en una determinada característica o de arreglar un determinado error. Estos commits pueden ser usados para controlar qué características fueron agregadas en qué commits y por quién, así que podemos controlar fácilmente o incluso revertir el commit completo si hay algún error en el código.
@@ -67,6 +80,9 @@ Para añadir un commit usamos el siguiente comando:
 > git commit -m "commit message"
   
   La -m significa que vamos a añadir un cierto mensaje.
+  
+  ![Screenshot from 2019-07-18 22-15-50.png]({{site.baseurl}}/_posts/Screenshot from 2019-07-18 22-15-50.png)
+
 
 En este ejemplo, vamos a crear nuestro primer committ.Vamos a hacer una confirmación con el mensaje "Primer commit".
 
@@ -78,9 +94,17 @@ El mensaje del commit debe indicar qué cambios de código se hicieron en ese co
   
 Cuando todos los archivos son agregados y confirmados, lo único que queda por hacer es "pushearlos/subirlos" a nuestro repositorio remoto.
 
+Pero antes de eso tenemos que por así decirlo ligar nuestro repositorio local a nuestro repositorio en github con el siguiente comando:
+
+> git remote add origin (Link de nuestro repo)
+
+
 La primera vez que hagamos push en los archivos a un directorio remoto, tenemos que ejecutar el siguiente comando:
   
   > git push -u origin master
+  
+  ![Screenshot from 2019-07-18 22-19-13.png]({{site.baseurl}}/_posts/Screenshot from 2019-07-18 22-19-13.png)
+
 
 A partir del segundo push ya solo tendremos que ejecutar lo siguiente:
   
