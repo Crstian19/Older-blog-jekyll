@@ -20,7 +20,7 @@ Un sistema de control de versiones nos permite rastrear el historial de una cole
 
 Si tienes una cuenta de GitHub y has instalado y configurado Git en tu ordenador, salta al siguiente paso.
 
-Si no tienes una cuenta de GitHub, ve [aquí](https://github.com/join) y regístrate para obtener una gratis. Mira cómo instalar y configurar Git [aquí](https://help.github.com/articles/set-up-git/). Necesitamos la herramienta con terminal en caso de encontrarnos en windows. Sigue los enlaces para descargarlo e instalarlo.
+Si no tienes una cuenta de GitHub, ve [**aquí**](https://github.com/join) y regístrate para obtener una gratis. Mira cómo instalar y configurar Git [**aquí**](https://help.github.com/articles/set-up-git/). Necesitamos la herramienta con terminal en caso de encontrarnos en windows. Sigue los enlaces para descargarlo e instalarlo.
 
 Puedes verificar si Git está instalado usando el siguiente comando:
     
@@ -90,26 +90,3 @@ A partir del segundo push ya solo tendremos que ejecutar lo siguiente:
 ### ¡Eso es todo!
 
 Espero que te haya servido como introducción para crear tu primer repositorio. 😉
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
