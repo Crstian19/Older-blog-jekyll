@@ -120,6 +120,48 @@ img {
   color: $gray;
 }
 
+/* Preloader */
+
+#preloader {
+  background: #fff;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 9999;
+}
+
+#loader img {
+  margin-left: 38px;
+}
+
+#loader,
+.pre-logo {
+  height: 200px;
+  left: 50%;
+  margin: -100px 0 0 -100px;
+  position: absolute;
+  top: 50%;
+  width: 200px;
+}
+
+.pre-logo {
+  background: none;
+  left: 0;
+  margin: 0;
+  text-align: center;
+  top: 65%;
+}
+
+.pre-logo h4 {
+  color: #444;
+  text-transform: uppercase;
+  margin-top: 15px;
+}
+
+
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
