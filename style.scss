@@ -10,6 +10,48 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700);
 // Syntax highlighting @import is at the bottom of this file
 
+
+/* Github */
+.giticon {
+  color: hsla(0, 0%, 96%, 1);
+  position: fixed;
+  top: 0;
+  border: 0;
+  right: 0;
+  fill:hsla(0, 100%, 39%, 1);
+}
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+.github-corner:hover .giticon {
+  animation: rainbow-git 1.5s linear infinite;
+}
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+
+  20%,
+  60% {
+    transform: rotate(-25deg);
+  }
+
+  40%,
+  80% {
+    transform: rotate(10deg);
+  }
+}
+@media (max-width:500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
