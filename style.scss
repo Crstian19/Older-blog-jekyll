@@ -116,7 +116,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #5E6ABA;
+    animation: rainbow 1s linear infinite;;
   }
 }
 
