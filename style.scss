@@ -120,6 +120,12 @@ img {
   color: $gray;
 }
 
+/* Rainbow Texts*/
+.rainbow-text{
+animation: rainbow 1s linear infinite;
+
+}
+
 /* Rainbows */
 @keyframes rainbow {
   0% {color: hsla(0, 70%, 50%, 1);}
