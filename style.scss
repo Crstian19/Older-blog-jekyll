@@ -120,6 +120,23 @@ img {
   color: $gray;
 }
 
+/* Rainbows */
+@keyframes rainbow {
+  0% {color: hsla(0, 70%, 50%, 1);}
+  10% {color: hsla(30, 70%, 50%, 1);}
+  20% {color: hsla(60, 70%, 50%, 1);}
+  30% {color: hsla(90, 70%, 50%, 1);}
+  40% {color: hsla(120, 70%, 50%, 1);}
+  50% {color: hsla(150, 70%, 50%, 1);}
+  60% {color: hsla(180, 70%, 50%, 1);}
+  70% {color: hsla(210, 70%, 50%, 1);}
+  80% {color: hsla(240, 70%, 50%, 1);}
+  90% {color: hsla(270, 70%, 50%, 1);}
+  100% {color: hsla(0, 70%, 50%, 1);}
+
+}
+
+
 /* Preloader */
 
 #preloader {
