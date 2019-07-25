@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700);
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -124,6 +125,15 @@ img {
 .rainbow-text{
 animation: rainbow 1s linear infinite;
 
+}
+.logo:hover{
+animation: rainbow 1s linear infinite;
+}
+.footer-logo:hover{
+animation: rainbow 1s linear infinite;
+}
+.btn-default:hover{
+animation: rainbow 1s linear infinite;
 }
 
 /* Rainbows */
