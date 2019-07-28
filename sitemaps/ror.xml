@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://blog.crstian.me/</title>
+  <link>http://blog.crstian.me/</link>
+
+<item>
+     <link>https://blog.crstian.me/</link>
+     <title></title>
+     <description>Tengo un problema con lolcat 🙀</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://blog.crstian.me/about/</link>
+     <title></title>
+     <description>Tengo un problema con lolcat 🙀</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://blog.crstian.me/Logitech-G502-Linux/</link>
+     <title>Logitech g502 linux – Cristian Gutiérrez – Tengo un problema con lolcat 🙀</title>
+     <description>Como configurar y usar Logitech G502 en Arch Linux - How to configure and use Logitech G502 on Arch Linux
+
+</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://blog.crstian.me/Minar-eth-nanopool/</link>
+     <title>Minar Ethereum desde Linux y Windows en nanopool – Cristian Gutiérrez – Tengo un problema con lolcat 🙀</title>
+     <description>En es post vamos a ver como minar Ethereum con nanopool.org en linux y en windows.
+
+</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://blog.crstian.me/Tutorial-Git/</link>
+     <title>Github para noobies como yo 🤔 – Cristian Gutiérrez – Tengo un problema con lolcat 🙀</title>
+     <description>En este post vamos a ver como crear nuestro primer repositorio y tener nuestro código ordenado en Github. Vamos a aprender lo básico y los comandos necesarios para ello, por eso lo he titulado github para noobies o dummies como yo.
+
+</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
