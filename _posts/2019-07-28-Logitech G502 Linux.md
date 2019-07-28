@@ -15,7 +15,7 @@ En mi caso al usar Arch Linux ya tenía el paquete en el [AUR](https://aur.archl
 
 Una vez instalado es tan fácil como lanzar el programa.
 
-![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Resolution.png )
+![][(https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Resolution.png)
 
 En esta primera pantalla podemos modificar los dpi y la sensibilidad.
 
@@ -43,11 +43,11 @@ Once installed it is as easy as launching the program.
 
 In this screen we can modify the dpi and sensitivity.
 
-![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Buttons.png_posts/Buttons.png )
+![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Buttons.png )
 
 In this we can change the functions of the different buttons.
 
-![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Leds.png_posts/Leds.png )
+![](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Leds.png )
 
 Finally here we can modify the leds.
 
