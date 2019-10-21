@@ -8,7 +8,7 @@ En este post vamos a ver como crear nuestro primer repositorio y tener nuestro c
 
 ## Introducción
 
-Git es el sistema de control de versiones más popular y razón. En este post, repasaremos los conceptos básicos de qué es git y cómo usarlo dentro de la línea de comandos. Examinaremos y trabajaremos con todos los comandos básicos y más importantes, como add, commit, push...
+Git es el sistema de control de versiones más popular y con razón. En este post, repasaremos los conceptos básicos de qué es git y cómo usarlo dentro de la línea de comandos. Examinaremos y trabajaremos con todos los comandos básicos y más importantes, como add, commit, push...
 
 Git es una tecnología de control de versiones esencial para desarrolladores y programadores.
 
