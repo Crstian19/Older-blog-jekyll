@@ -15,7 +15,7 @@ En mi caso al usar Arch Linux ya tenía el paquete en el [AUR](https://aur.archl
 
 Una vez instalado es tan fácil como lanzar el programa.
 
-![][(https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Resolution.png_)
+![][(https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/Resolution.png)
 
 En esta primera pantalla podemos modificar los dpi y la sensibilidad.
 
