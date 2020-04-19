@@ -147,4 +147,4 @@ traefik:
 ```
 Nos deberá mostrar este dashboard 
 
-![Traefik v2](https://containo.us/content/images/2019/11/image-108.png)
+![Traefik v2](https://raw.githubusercontent.com/Crstian19/crstian19.github.io/master/_posts/traefikdashboard.png)
