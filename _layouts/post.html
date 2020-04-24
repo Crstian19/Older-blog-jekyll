@@ -4,6 +4,7 @@ layout: default2
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {% include read_time.html %}
 
   <div class="entry" class="box">
     {{ content }}
@@ -17,7 +18,6 @@ layout: default2
     <img id="gauntlet" src="https://raw.githubusercontent.com/leonardomath/Thanos-Infinity-Gauntlet/master/img/1.png" onclick="trick()">
 </div>
   {% include disqus.html %}
-  {% include read_time.html %}
 </article>
 
 
